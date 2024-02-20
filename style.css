@@ -1,0 +1,90 @@
+ Body {
+     font-family: "Poppins", sans-serif;
+ }
+
+ .first-section {
+     display: flex;
+ }
+
+ .huffwaith {
+     width: 89%;
+     padding: 5%;
+ }
+
+ .orange {
+     color: orange;
+ }
+
+ .Order {
+     color: rgb(0, 0, 0);
+     text-decoration: none;
+     background-image: linear-gradient(rgb(187, 255, 0), tomato);
+     padding: 5px;
+     border-radius: 7px;
+ }
+
+ .first-section-bg {
+     background-image: url(images/shapes/7.png);
+     display: flex;
+     background-repeat: no-repeat;
+ }
+
+ .text-medel {
+     text-align: center;
+     padding-left: 3%;
+     padding-right: 3%;
+     padding-top: 2%;
+     padding-bottom: 2%;
+ }
+
+ #last-section {
+     display: flex;
+     width: 100%;
+     align-items: center;
+     margin: 20px;
+
+ }
+
+
+
+ .three-width {
+     width: 33%;
+     justify-content: center;
+     padding: 20px;
+     box-shadow: 10px 10px 40px;
+     border-radius: 40px;
+     text-align: content;
+
+ }
+
+ .bonus-part {
+     display: flex;
+     text-align: center;
+     background-color: antiquewhite;
+     border: 10px;
+     border-radius: 20px;
+ }
+
+ .space {
+     padding-left: 30px;
+ }
+
+ .center {
+     text-align: center;
+     text-decoration: line;
+ }
+
+ .desplay {
+     display: flex;
+     text-align: center;
+ }
+
+ .try {
+     text-align: center;
+ }
+
+ footer {
+     text-align: center;
+     background-color: rgba(20, 10, 10, 0.911);
+     padding: 20px;
+ }
